@@ -6,7 +6,7 @@ I am a software developer, and a pre-final year undergrad pursuing Electrical an
 Feel free to go through my repos and add your contributions. Thanks for taking out time to visit my profile. Let's Go 🚀!
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=ghostery&logoColor=white&link=https://www.adityakrishna.xyz/)](https://www.adityakrishna.xyz/)
-[![Resume Badge](https://img.shields.io/badge/-Aditya_R%C3%A9sum%C3%A9-green?style=flat-square&logo=readthedocs&logoColor=white&link=https://www.adityakrishna.xyz/resume.pdf)](https://www.adityakrishna.xyz/resume.pdf)
+[![Resume Badge](https://img.shields.io/badge/-R%C3%A9sum%C3%A9-green?style=flat-square&logo=readthedocs&logoColor=white&link=https://www.adityakrishna.xyz/resume.pdf)](https://www.adityakrishna.xyz/resume.pdf)
 [![Linkedin Badge](https://img.shields.io/badge/-Aditya_Krishna-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityakrishnagupta/)](https://www.linkedin.com/in/adityakrishnagupta/)
 [![Gmail Badge](https://img.shields.io/badge/-adityakrishnaoff@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityakrishnaoff@gmail.com)](mailto:adityakrishnaoff@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@_aditya_codez-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/@aditya_codez/)](https://www.twitter.com/@aditya_codez/)
