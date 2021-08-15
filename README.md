@@ -20,22 +20,27 @@ Feel free to go through my repos and add your contributions. Thanks for taking o
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=green)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
 ### Libraries and Frameworks
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
+![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
+![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=nextdotjs)
+![Electronjs](https://img.shields.io/badge/-Electronjs-47848f?style=flat-square&logo=electron&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### Other Technologies I Used
 
+![AWS](https://img.shields.io/badge/-Amazon_AWS-232f3e?style=flat-square&logo=amazonaws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080ff?style=flat-square&logo=DigitalOcean&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-orange?style=flat-square&logo=linux&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase&logoColor=yellow)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL&logoColor=white)
 
 ### Now Playing 🎧
 
