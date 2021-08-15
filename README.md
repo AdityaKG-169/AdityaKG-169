@@ -1,16 +1,15 @@
 ![Banner](https://raw.githubusercontent.com/AdityaKG-169/AdityaKG-169/master/assets/final.png?token=AMK45G2VVWSYHL5KCURQGBLBEI67I)
-<!-- <img src="https://raw.githubusercontent.com/AdityaKG-169/AdityaKG-169/master/assets/final.png?token=AMK45G2VVWSYHL5KCURQGBLBEI67I" width="300px"> -->
 
 ## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝚏𝚎𝚕𝚕𝚘𝚠 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/> <img alt="👋" src="https://raw.githubusercontent.com/AdityaKG-169/AdityaKG-169/master/assets/wave.gif?token=AMK45G33B3PJDGFGRR4MKWTBEI65I" width="30px">
 
-I am a junior Web developer pursuing B.E. Computer Science at BITS Pilani, India. I love solving problems with JavaScript and C++ and creating web based projects with new technologies.
-Please feel free to clone projects, raise issues and submit PRs. Open to help and take guidance from others to improve myself, contribute and explore interesting open source projects. Ask me anything [here](https://nilanjandeb.me) or connect here.
+I am a software developer, and a pre-final year undergrad pursuing Electrical and Electronics Engineering at BITS Pilani, Goa Campus. I love to hack together things and build products using programming.
+Feel free to go through my repos and add your contributions. Thanks for taking out time to visit my profile. Let's Go 🚀!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aditya_Krishna-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityakrishnagupta/)](https://www.linkedin.com/in/adityakrishnagupta/)
-[![Facebook Badge](https://img.shields.io/badge/-Nilanjan_Deb-3b5998?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/nilanjan.deb.33/)](https://www.facebook.com/nilanjan.deb.33/)
-[![Gmail Badge](https://img.shields.io/badge/-nilanjan172svian@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:001pritam2012@gmail.com)](mailto:nilanjan172nsvian@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-_nil_deb-8a3ab9?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_nil_deb/)](https://www.instagram.com/_nil_deb/)
-[![Twitter Badge](https://img.shields.io/badge/-@_nilanjandeb-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/@_nilanjandeb/)](https://www.twitter.com/@_nilanjandeb/)
+[![Resume Badge](https://img.shields.io/badge/-Aditya_R%C3%A9sum%C3%A9-green?style=flat-square&logo=readthedocs&logoColor=white&link=https://www.adityakrishna.xyz/resume.pdf)](https://www.adityakrishna.xyz/resume.pdf)
+[![Gmail Badge](https://img.shields.io/badge/-adityakrishnaoff@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityakrishnaoff@gmail.com)](mailto:adityakrishnaoff@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-adityakrishnagupta-8a3ab9?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adityakrishnagupta/)](https://www.instagram.com/adityakrishnagupta/)
+[![Twitter Badge](https://img.shields.io/badge/-@_aditya_codez-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/@aditya_codez/)](https://www.twitter.com/@aditya_codez/)
 
 ---
 
@@ -51,4 +50,4 @@ Please feel free to clone projects, raise issues and submit PRs. Open to help an
 
 ---
 
-### Dream💭 Believe💫 Code👨🏻‍💻 Repeat🔁
+### Dream 💭 Believe 💫 Code 👨🏻‍💻 Repeat 🔁
