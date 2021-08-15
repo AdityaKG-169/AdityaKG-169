@@ -1,4 +1,5 @@
 ![Banner](https://raw.githubusercontent.com/AdityaKG-169/AdityaKG-169/master/assets/final.png?token=AMK45G2VVWSYHL5KCURQGBLBEI67I)
+<!-- <img src="https://raw.githubusercontent.com/AdityaKG-169/AdityaKG-169/master/assets/final.png?token=AMK45G2VVWSYHL5KCURQGBLBEI67I" width="300px"> -->
 
 ## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝚏𝚎𝚕𝚕𝚘𝚠 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/> <img alt="👋" src="https://raw.githubusercontent.com/AdityaKG-169/AdityaKG-169/master/assets/wave.gif?token=AMK45G33B3PJDGFGRR4MKWTBEI65I" width="30px">
 
