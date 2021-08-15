@@ -20,6 +20,7 @@ Feel free to go through my repos and add your contributions. Thanks for taking o
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=green)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript)
 
 ### Libraries and Frameworks
 
