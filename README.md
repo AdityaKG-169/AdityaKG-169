@@ -5,29 +5,32 @@
 I am a software developer, and a pre-final year undergrad pursuing Electrical and Electronics Engineering at BITS Pilani, Goa Campus. I love to hack together things and build products using programming.
 Feel free to go through my repos and add your contributions. Thanks for taking out time to visit my profile. Let's Go 🚀!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aditya_Krishna-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityakrishnagupta/)](https://www.linkedin.com/in/adityakrishnagupta/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=ghostery&logoColor=white&link=https://www.adityakrishna.xyz/)](https://www.adityakrishna.xyz/)
 [![Resume Badge](https://img.shields.io/badge/-Aditya_R%C3%A9sum%C3%A9-green?style=flat-square&logo=readthedocs&logoColor=white&link=https://www.adityakrishna.xyz/resume.pdf)](https://www.adityakrishna.xyz/resume.pdf)
+[![Linkedin Badge](https://img.shields.io/badge/-Aditya_Krishna-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityakrishnagupta/)](https://www.linkedin.com/in/adityakrishnagupta/)
 [![Gmail Badge](https://img.shields.io/badge/-adityakrishnaoff@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityakrishnaoff@gmail.com)](mailto:adityakrishnaoff@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-adityakrishnagupta-C13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adityakrishnagupta/)](https://www.instagram.com/adityakrishnagupta/)
 [![Twitter Badge](https://img.shields.io/badge/-@_aditya_codez-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/@aditya_codez/)](https://www.twitter.com/@aditya_codez/)
+[![Instagram Badge](https://img.shields.io/badge/-adityakrishnagupta-C13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adityakrishnagupta/)](https://www.instagram.com/adityakrishnagupta/)
 
 ---
 
 ### Languages I Have Worked With
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=green)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 ### Libraries and Frameworks
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=nextdotjs)
+![React Native](https://img.shields.io/badge/-React_Native-61dafb?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38b2ac?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Electronjs](https://img.shields.io/badge/-Electronjs-47848f?style=flat-square&logo=electron&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
@@ -35,12 +38,12 @@ Feel free to go through my repos and add your contributions. Thanks for taking o
 
 ![AWS](https://img.shields.io/badge/-Amazon_AWS-232f3e?style=flat-square&logo=amazonaws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080ff?style=flat-square&logo=DigitalOcean&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-orange?style=flat-square&logo=linux&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase&logoColor=yellow)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-e95420?style=flat-square&logo=linux&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=Firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169e1?style=flat-square&logo=PostgreSQL&logoColor=white)
 
 ### Now Playing 🎧
 
