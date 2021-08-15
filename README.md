@@ -1,6 +1,6 @@
-![Banner](https://raw.githubusercontent.com/adityakg-169/adityakg-169/master/assets/Final.png)
+![Banner](https://raw.githubusercontent.com/AdityaKG-169/AdityaKG-169/master/assets/final.png?token=AMK45G2VVWSYHL5KCURQGBLBEI67I)
 
-## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝚏𝚎𝚕𝚕𝚘𝚠 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/> <img alt="👋" src="https://raw.githubusercontent.com/adityakg-169/adityakg-169/master/assets/wave.gif" width="30px">
+## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝚏𝚎𝚕𝚕𝚘𝚠 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/> <img alt="👋" src="https://raw.githubusercontent.com/AdityaKG-169/AdityaKG-169/master/assets/wave.gif?token=AMK45G33B3PJDGFGRR4MKWTBEI65I" width="30px">
 
 I am a junior Web developer pursuing B.E. Computer Science at BITS Pilani, India. I love solving problems with JavaScript and C++ and creating web based projects with new technologies.
 Please feel free to clone projects, raise issues and submit PRs. Open to help and take guidance from others to improve myself, contribute and explore interesting open source projects. Ask me anything [here](https://nilanjandeb.me) or connect here.
