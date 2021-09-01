@@ -14,7 +14,7 @@ Feel free to go through my repos and add your contributions. Thanks for taking o
 
 ---
 
-### Languages I Have Worked With
+### Languages I Work With
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
@@ -34,7 +34,7 @@ Feel free to go through my repos and add your contributions. Thanks for taking o
 ![Electronjs](https://img.shields.io/badge/-Electronjs-47848f?style=flat-square&logo=electron&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-### Other Technologies I Used
+### Other Technologies I Use
 
 ![AWS](https://img.shields.io/badge/-Amazon_AWS-232f3e?style=flat-square&logo=amazonaws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080ff?style=flat-square&logo=DigitalOcean&logoColor=white)
