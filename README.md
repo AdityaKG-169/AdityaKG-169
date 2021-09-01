@@ -52,6 +52,7 @@ Feel free to go through my repos and add your contributions. Thanks for taking o
 ---
 
 ### Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdityaKG-169&theme=react&hide_border=true)](https://git.io/streak-stats)
 
 ![Aditya's Github stats](https://github-readme-stats.vercel.app/api?username=adityakg-169&show_icons=true&theme=merko)
 
