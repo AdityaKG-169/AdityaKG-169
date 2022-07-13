@@ -2,7 +2,7 @@
 
 ## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝚏𝚎𝚕𝚕𝚘𝚠 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/> <img alt="👋" src="https://raw.githubusercontent.com/AdityaKG-169/AdityaKG-169/master/assets/wave.gif?token=AMK45G33B3PJDGFGRR4MKWTBEI65I" width="30px">
 
-I am a software developer, and a pre-final year undergrad pursuing Electrical and Electronics Engineering at BITS Pilani, Goa Campus. I love to hack together things and build products using programming.
+I am a software developer, and a final year undergrad pursuing Electrical and Electronics Engineering at BITS Pilani, Goa Campus. I love to hack together things and build products using programming.
 Feel free to go through my repos and add your contributions. Thanks for taking out time to visit my profile. Let's Go 🚀!
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=ghostery&logoColor=white&link=https://shimy.in)](https://shimy.in/)
